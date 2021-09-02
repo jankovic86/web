@@ -1,2 +1,2 @@
-# web
-repository to create web site fro web design challenge.
+# Web-Design-Challenge
+Latitude Analysis Dashboard with Attitude
